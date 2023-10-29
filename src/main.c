@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <gtk/gtk.h>
+#include <string.h>
 
-int main(int argc, char* argv[]){
+int main(int argc, char** argv){
 
-  return 0;
+  return 0;  
 }
